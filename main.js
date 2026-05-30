@@ -9,7 +9,7 @@ const path = require('path');
 // =========================================
 // ⚙️ SETTINGAN DISINI (GANTI NOMOR LU)
 // =========================================
-const PHONE_NUMBER = "6289601671818"; // GANTI NOMOR BOT LU DISINI
+const PHONE_NUMBER = "6282234856655"; // GANTI NOMOR BOT LU DISINI
 const AUTO_VIEW_STATUS = true;       // true = nyala, false = mati
 const MODE_KONEKSI = "pairing";      // "pairing" atau "qr"
 // =========================================
